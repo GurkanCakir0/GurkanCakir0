@@ -61,12 +61,11 @@
  
 <p align="center">
   <a style="margin-right: 30px;">
-      <img align="top-left" src="https://github-readme-stats.vercel.app/api?username=gurkancakir0&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="gurkancakir0" width="450" height="200"/>
+      <img align="top-left" src="https://github-readme-stats.vercel.app/api?username=gurkancakir0&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="gurkancakir0" width="400" height="200"/>
   </a>
- <br>
-<br>
+
   <a style="margin-left: 30px;">
-    <img align="top-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurkancakir0&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="gurkancakir0" width="500" height="200"/>
+    <img align="top-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurkancakir0&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="gurkancakir0" width="400" height="200"/>
   </a>
 </p>
 <br>
