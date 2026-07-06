@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=GurkanCakir0&label=Profil%20Görüntülenme&color=6C63FF&style=flat" alt="Profil görüntülenme" />
 </p>
 
-<h1 align="center">Merhaba, ben Gürkan Çakır 👋</h1>
+<h1 align="center">Merhaba, Ben Hüseyin Gürkan Çakır 👋</h1>
 
 <p align="center">
   <a href="https://github.com/GurkanCakir0">
@@ -53,7 +53,7 @@
 ### 🧰 Kullandığım Teknolojiler
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cs,c,cpp,js,ts,html,css,angular,django,flutter,mysql,opencv,git,github,vscode,arduino" alt="Teknolojiler" />
+  <img src="https://skillicons.dev/icons?i=python,cs,ts,html,css,angular,django,flutter,mysql,opencv,git,github,vscode,arduino" alt="Teknolojiler" />
 </p>
 
 ---
@@ -105,15 +105,20 @@ Frontend Geliştirme     ██████████░░░░░░░░�
 
 ---
 
-### 📊 GitHub İstatistikleri
+
+### 📊 GitHub Özeti
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GurkanCakir0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub istatistikleri" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurkanCakir0&layout=compact&theme=tokyonight&hide_border=true" alt="En çok kullanılan diller" />
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GurkanCakir0&theme=tokyonight" alt="GitHub profil özeti" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=GurkanCakir0&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GurkanCakir0&theme=tokyonight" alt="Dillere göre repo dağılımı" />
+  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GurkanCakir0&theme=tokyonight" alt="Commit yapılan diller" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=GurkanCakir0&theme=tokyonight&hide_border=true" alt="GitHub katkı serisi" />
 </p>
 
 ---
